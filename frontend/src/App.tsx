@@ -11,6 +11,7 @@ import { formatAmount } from "./util";
 import { truncateAddress } from "./util";
 import { usdtConfig } from "./contract";
 import CheckBalance from "./components/CheckBalance";
+import Transfer from "./components/Transfer";
 
 function App() {
   const { address, isConnected } = useAccount();
@@ -148,6 +149,7 @@ function App() {
             >
               <Mint />
               <CheckBalance />
+              <Transfer />
               <div
                 style={{
                   display: "flex",
