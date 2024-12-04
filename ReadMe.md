@@ -1,9 +1,5 @@
 ## Smart Contract
 
-### Introduction
-
-The smart contract is designed to manage token deposits, withdrawals, and the distribution of WIN tokens on the Ethereum blockchain.
-
 ### Setup and Deployment
 
 1. **`cd contracts`**: 
