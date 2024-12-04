@@ -40,10 +40,6 @@
 
 ## Frontend
 
-### Introduction
-
-The frontend application, built with NextJs, handles smart contract interactions, listens for events, and provides API endpoints for various operations.
-
 ### Setup
 
 1. **`cd frontend`**: 
