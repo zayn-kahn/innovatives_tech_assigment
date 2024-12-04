@@ -50,7 +50,7 @@ The frontend application, built with NextJs, handles smart contract interactions
 
 ### Setup
 
-1. **`cd app`**: 
+1. **`cd frontend`**: 
 2. **Copy and Configure `.env`**: 
    Copy the example environment file and configure it with your details:
    ```bash
@@ -65,4 +65,4 @@ The frontend application, built with NextJs, handles smart contract interactions
    npm run dev
    ```
 5. **Access the app**:
-   [port 3000](http://localhost:3000)
+   [port 2000](http://localhost:2000)
